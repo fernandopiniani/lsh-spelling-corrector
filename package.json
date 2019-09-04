@@ -1,0 +1,19 @@
+{
+  "name": "lsh-spelling-corrector",
+  "version": "1.0.0",
+  "description": "Spelling corrector implementation using locality sensitive hashing.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fernandopiniani/lsh-spelling-corrector.git"
+  },
+  "author": "Fernando Piniani",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fernandopiniani/lsh-spelling-corrector/issues"
+  },
+  "homepage": "https://github.com/fernandopiniani/lsh-spelling-corrector#readme"
+}
